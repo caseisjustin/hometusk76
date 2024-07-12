@@ -1,0 +1,16 @@
+{
+  "name": "hometusk76",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionsToBetested.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.0.2"
+  }
+}
